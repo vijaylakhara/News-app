@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+"articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hospital evacuees among those fleeing Gaza City with tanks on street",
+    "description": "Hundreds of Palestinians left al-Shifa hospital on Saturday and headed south on foot.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-67462716",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A1C/production/_131761367_p0gtk29h.jpg",
+    "publishedAt": "2023-11-18T15:52:18.157655Z",
+    "content": "Palestinians including hundreds who left al-Shifa hospital are seen fleeing Gaza City on foot.\r\nGunfire was heard as people made their way and Israeli tanks and diggers were seen on the move.\r\nThe ev… [+249 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "SpaceX rocket launches, separates and loses contact",
+    "description": "The rocket flew for about eight minutes before SpaceX lost contact and ended its live stream.",
+    "url": "http://www.bbc.co.uk/news/science-environment-67461791",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6AB4/production/_131761372_p0gtk3jc.jpg",
+    "publishedAt": "2023-11-18T15:07:20.0637405Z",
+    "content": "US entrepreneur Elon Musk has launched his Starship rocket from its launch site in Texas, for a second time.\r\nThe rocket flew for about eight minutes before SpaceX said it had lost contact, and ended… [+276 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel Gaza live news: Israel tells Palestinians to leave part of southern Gaza",
+    "description": "The warning from an advisor to Benjamin Netanyahu comes after Israel told people to move to southern Gaza for their own safety.",
+    "url": "http://www.bbc.co.uk/news/live/world-middle-east-67446662",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-11-18T08:37:19.2973582Z",
+    "content": "For anyone in need of a catch-up on the day's events in Gaza and\r\nIsrael, here's a summary of the key moments:\r\nFuel crisis\r\nIsrael says it has agreed to allow two fuel lorries a day into\r\nGaza, whic… [+2283 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US cancer patient's dying wish erases $16m in people's medical debt",
+    "description": "Casey McIntyre left a heart-wrenching goodbye on social media - and multi-million dollar gift.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67459257",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53F7/production/_131759412_microsoftteams-image-16.png",
+    "publishedAt": "2023-11-18T03:22:17.2979934Z",
+    "content": "A New York City woman who died of ovarian cancer has raised enough money to pay off millions of dollars in other people's medical debts. \r\nIn a social media post she arranged to be posted after her d… [+1879 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden has a response for your jokes about his age",
+    "description": "The president, soon to turn 81, is the oldest in US history, but he has learned to defuse concerns about his age with humour.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67459287",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13A0B/production/_131759308_p0gtgv8y.jpg",
+    "publishedAt": "2023-11-18T02:37:14.0952155Z",
+    "content": "Even since his time campaigning for office, US President Joe Biden has defused concerns about his age with humour.\r\nBiden will turn 81 this Monday, though concerns about his advanced years and health… [+83 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "X ad boycott gathers pace amid antisemitism storm",
+    "description": "US firms, including Apple and Disney, are reportedly suspending ads on the Elon Musk-owned site.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67460386",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/018B/production/_131759300_gettyimages-1768681504.jpg",
+    "publishedAt": "2023-11-18T01:52:18.4544252Z",
+    "content": "An advertising boycott of social media platform X is gathering pace amid a furore over antisemitism on the site formerly known as Twitter.\r\nApple, Disney, Comcast, Warner Brothers Discovery and Param… [+1303 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump to remain on Colorado ballot after judge dismisses lawsuit",
+    "description": "A judge rules she does not have the power to bar the Republican frontrunner from the presidential ballot.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67446313",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3056/production/_131747321_gettyimages-1259028789-1.jpg",
+    "publishedAt": "2023-11-18T00:37:18.3356538Z",
+    "content": "Similar challenges, based on a US Civil War-era constitutional amendment, have also failed in three other states."
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "AI boss Sam Altman ousted by OpenAI board",
+    "description": "OpenAI said it 'no longer had confidence' in his ability to lead the artificial intelligence firm.",
+    "url": "http://www.bbc.co.uk/news/business-67458603",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg",
+    "publishedAt": "2023-11-17T21:37:21.5550468Z",
+    "content": "Sam Altman, the head of artificial intelligence firm OpenAI, has been ousted by the company's board, which said it had lost confidence in his ability to lead the company.\r\nThe board said Mr Altman ha… [+409 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden facing growing internal dissent over Israel's Gaza campaign",
+    "description": "It has stirred an extraordinary level of criticism from within the president’s own administration.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67453674",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C45/production/_131756908_gettyimages-1731038741.jpg",
+    "publishedAt": "2023-11-17T18:37:18.508225Z",
+    "content": "Media caption, Watch: How Biden's message to Israel has evolved\r\nUS President Joe Biden is under growing pressure to rein in Israel's military campaign against Hamas in Gaza. \r\nThe growing civilian c… [+7283 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Charissa Thompson: NFL broadcaster faces backlash for making up quotes",
+    "description": "Charissa Thompson says she 'never lied' in spite of her confession she 'made up reports sometimes'.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67456034",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FEF/production/_131757180_gettyimages-1772489615-1.jpg",
+    "publishedAt": "2023-11-17T18:22:19.7733584Z",
+    "content": "An NFL broadcaster has broken her silence after facing backlash for admitting that she fabricated news reports during her time as a sideline reporter.\r\nCharissa Thompson said she \"would make up quote… [+4156 chars]"
+    }
+    ]
+    }

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(45 40 85)!important;
+    position: sticky !important
+    
+}
+ul.navbar-nav{
+    width: 100%;
+    justify-content: end;
+    
+}
+ul.navbar-nav li a{
+    color: white !important;
+    font-weight: 400;
+}
+.navbar-brand{
+    color:white;
+}
